@@ -1,8 +1,7 @@
-img{
-    border-radius: 5%;
-    margin: 50px;
-}
-img:hover{
-    height: 75%;
-    width: 75%;
+
+.App{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqy0byaaMAIQhlwQQVJjXNkpK-8mBpphDZZtjCD57jfyqLcGBpGFBQG1jFmBy0a-Xp1Tc&usqp=CAU%27');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
 }

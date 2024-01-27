@@ -1,0 +1,39 @@
+h5{
+    color : black;
+    font-size: 35px;
+}
+.manufacturepage .content{
+    margin-top: 25px;
+    padding-left: 55px;
+    width : 50%;
+}
+.manufacturerbtn{
+    background-color: black;
+    width: 35%;
+    height: 45px;
+    border-radius: 25px;
+    color: white;
+    margin-top: 10px;
+}
+.manufacturerp{
+    color : black;
+    font-size: 25px;
+}
+.manufacturepage{
+    display: flex;
+    padding-top: 120px;
+    width: 100%;
+    height: 1000px;
+}
+.img{
+    padding-left: 142px;
+    padding-top: 30px;
+    width: 50%;
+}
+.img img{
+    height: 300px;
+}
+
+.manufacturerbtn:hover{
+    background: linear-gradient(to right, black, blue, violet);
+}

@@ -1,0 +1,19 @@
+.qrreader{
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
+}
+.cam     {
+    border: solid 2px black;
+}
+.validateproductdiv{
+    height: 1020px;
+}
+.validateproductdiv h1{
+    margin-top: 85px;
+    margin-left: 150px;
+
+}
+.validateproductdiv p{
+    margin-left: 150px;
+}

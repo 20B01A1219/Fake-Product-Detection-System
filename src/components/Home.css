@@ -1,0 +1,14 @@
+.homeimg:hover{
+    margin: 50px;
+}
+.homeimg:hover{
+    height: 75%;
+    width: 75%;
+}
+.homepage{
+    padding: 25px;
+}
+.homeimg{
+    border-radius: 5%;
+    
+}
